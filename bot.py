@@ -87,6 +87,7 @@ def send_message(text):
             "chat_id": TELEGRAM_CHANNEL,
             "text": text,
             "disable_web_page_preview": False,
+            "parse_mode": "HTML",
         },
         timeout=30,
     )
