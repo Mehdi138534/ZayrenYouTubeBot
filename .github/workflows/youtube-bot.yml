@@ -39,12 +39,14 @@ jobs:
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
         run: python bot.py
 
+      
       - name: Save video history
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add seen_videos.json
+          git add -f seen_videos.json
           if ! git diff --cached --quiet; then
             git commit -m "Update published video history"
             git push
           fi
+
