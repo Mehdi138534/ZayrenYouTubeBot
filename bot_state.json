@@ -1,14 +1,14 @@
 {
-  "heartbeat": "2026-10-23",
+  "heartbeat": "2026-11-12",
   "initialized": true,
   "intro_sent": true,
   "last_fun_post": "2026-11-07T09:16:53.720574+00:00",
   "last_pick": {
     "chan": 2,
-    "closer": 4,
-    "header": 2,
-    "hook": 0,
-    "watch": 4
+    "closer": 1,
+    "header": 1,
+    "hook": 4,
+    "watch": 0
   },
   "seen": [
     "xQYOQzdtIYo",
@@ -30,7 +30,10 @@
     "Le_I54YhALE",
     "ifVkOwRklAs",
     "qHeyKggRy7s",
-    "uoZEVZwdc18"
+    "uoZEVZwdc18",
+    "BevQvFqtAZ0",
+    "BvjSDeJrzlc",
+    "T3-hQjL-wgA"
   ],
   "update_offset": 19970189
 }
