@@ -4,11 +4,11 @@
   "intro_sent": true,
   "last_fun_post": "2026-11-07T09:16:53.720574+00:00",
   "last_pick": {
-    "chan": 0,
-    "closer": 3,
-    "header": 2,
-    "hook": 1,
-    "watch": 1
+    "chan": 2,
+    "closer": 4,
+    "header": 4,
+    "hook": 4,
+    "watch": 3
   },
   "seen": [
     "xQYOQzdtIYo",
@@ -34,7 +34,8 @@
     "BevQvFqtAZ0",
     "BvjSDeJrzlc",
     "T3-hQjL-wgA",
-    "1CV8doC7Lec"
+    "1CV8doC7Lec",
+    "owRdAnGk-6Y"
   ],
   "update_offset": 19970189
 }
