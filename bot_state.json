@@ -6,8 +6,8 @@
   "last_pick": {
     "chan": 2,
     "closer": 4,
-    "header": 4,
-    "hook": 4,
+    "header": 1,
+    "hook": 5,
     "watch": 3
   },
   "seen": [
@@ -35,7 +35,9 @@
     "BvjSDeJrzlc",
     "T3-hQjL-wgA",
     "1CV8doC7Lec",
-    "owRdAnGk-6Y"
+    "owRdAnGk-6Y",
+    "Vyl9K6w7z7c",
+    "Iv3bIYm4vxs"
   ],
   "update_offset": 19970189
 }
